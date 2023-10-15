@@ -1,15 +1,15 @@
 # OCR-Pseudocode
 OCR Pseudocode Interpreter  
+<br />
+Data types: Integer, Float, Boolean (True/False), String (Enclosed by Double Quotes Only)  <br />
+Arithmetic Operators:  <br />
++ (Add), - (Subtract), * (Multiply), / (Divide), MOD (Remainder), DIV (Integer Division), ^ (Exponentiation) <br /> 
+Logical Operators: AND, OR, NOT  <br />
+Comparison Operators: == (Equal), != (Not Equal), < (Less Than), <= (Less Than/Equal to), > (Greater Than), >= (Greater Than/Equal to)  <br />
+  <br />
+Indexing Begins at 0  
+Increment by, for example, var = var + 1  
   
-Data types: Integer, Float, Boolean (True/False), String (Enclosed by Double Quotes Only)  
-Arithmetic Operators:  
-+ (Add), - (Subtract), * (Multiply), / (Divide), MOD (Remainder), DIV (Integer Division), ^ (Exponentiation)  
-Logical Operators: AND, OR, NOT  
-Comparison Operators: == (Equal), != (Not Equal), < (Less Than), <= (Less Than/Equal to), > (Greater Than), >= (Greater Than/Equal to)  
-  
-Indexing Begins at 0
-Increment by, for example, var = var + 1
-
 Built-in Functions: 
 input(OPTIONAL PROMPT)              (Console Input)
 int(INT/FLOAT/STRING)               (Converts to Integer)
