@@ -1,6 +1,8 @@
 # OCR-Pseudocode
 OCR Pseudocode Interpreter  
 
+Usage: OCR.py opens a file called "test.py" in the same folder. Can change the name of the file you want to execute at the bottom of the OCR.py file. Then, run OCR.py.
+
 Data types: Integer, Float, Boolean (True/False), String (Enclosed by Double Quotes Only)
 Arithmetic Operators:
 + (Add), - (Subtract), * (Multiply), / (Divide), MOD (Remainder), DIV (Integer Division), ^ (Exponentiation)
