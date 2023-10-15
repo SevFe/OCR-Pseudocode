@@ -13,8 +13,6 @@ TT_MOD = 'MOD'
 TT_DIV = 'DIV'
 TT_LPAREN = 'LPAREN'
 TT_RPAREN = 'RPAREN'
-TT_LSQUARE = 'LSQUARE'
-TT_RSQUARE = 'RSQUARE'
 TT_POWER = 'POWER'
 TT_AND = 'AND'
 TT_OR = 'OR'
@@ -132,10 +130,6 @@ class Lexer:
                 tokenList.append(Token(TT_LPAREN))
             elif self.currChar == ')':
                 tokenList.append(Token(TT_RPAREN))
-            elif self.currChar == '[':
-                tokenList.append(Token(TT_LSQUARE))
-            elif self.currChar == ']':
-                tokenList.append(Token(TT_RSQUARE))
             elif self.currChar == '^':
                 tokenList.append(Token(TT_POWER))
             elif self.currChar == '*':
