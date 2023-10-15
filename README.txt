@@ -1,12 +1,12 @@
 # OCR-Pseudocode
 OCR Pseudocode Interpreter  
 
-Data types: Integer, Float, Boolean (True/False), String (Enclosed by Double Quotes Only)\
-Arithmetic Operators:\
-+ (Add), - (Subtract), * (Multiply), / (Divide), MOD (Remainder), DIV (Integer Division), ^ (Exponentiation)\
-Logical Operators: AND, OR, NOT\
-Comparison Operators: == (Equal), != (Not Equal), < (Less Than), <= (Less Than/Equal to), > (Greater Than), >= (Greater Than/Equal to)\
-\
+Data types: Integer, Float, Boolean (True/False), String (Enclosed by Double Quotes Only)
+Arithmetic Operators:
++ (Add), - (Subtract), * (Multiply), / (Divide), MOD (Remainder), DIV (Integer Division), ^ (Exponentiation)
+Logical Operators: AND, OR, NOT
+Comparison Operators: == (Equal), != (Not Equal), < (Less Than), <= (Less Than/Equal to), > (Greater Than), >= (Greater Than/Equal to)
+
 Indexing Begins at 0  
 Increment by, for example, var = var + 1  
   
