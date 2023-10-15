@@ -1,6 +1,6 @@
 # OCR-Pseudocode
 OCR Pseudocode Interpreter  
-\
+
 Data types: Integer, Float, Boolean (True/False), String (Enclosed by Double Quotes Only)\
 Arithmetic Operators:\
 + (Add), - (Subtract), * (Multiply), / (Divide), MOD (Remainder), DIV (Integer Division), ^ (Exponentiation)\
