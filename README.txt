@@ -1,7 +1,8 @@
 # OCR-Pseudocode
 OCR Pseudocode Interpreter  
 
-Usage: OCR.py opens a file called "test.py" in the same folder. Can change the name of the file you want to execute at the bottom of the OCR.py file. Then, run OCR.py.
+Usage: This version of OCR.py currently works on a text file called "test.txt" (containing the OCR Pseudocode), which must exist in the same directory. This can easily be
+       changed by altering the text file name at the bottom of OCR.py.
 
 Data types: Integer, Float, Boolean (True/False), String (Enclosed by Double Quotes Only)
 Arithmetic Operators:
