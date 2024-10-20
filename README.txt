@@ -2,7 +2,7 @@
 OCR Pseudocode Interpreter  
 
 Usage: This version of OCR.py currently works on a text file called "test.txt" (containing the OCR Pseudocode), which must exist in the same directory. This can easily be
-       changed by altering the text file name at the bottom of OCR.py.
+       changed by altering the text file name at the bottom of OCR.py. Also note, there must be at least 1 newline at the end of the file.
 
 Data types: Integer, Float, Boolean (True/False), String (Enclosed by Double Quotes Only)
 Arithmetic Operators:
