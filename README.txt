@@ -1,8 +1,7 @@
 # OCR-Pseudocode
 OCR Pseudocode Interpreter  
 
-Usage: This version of OCR.py currently works on a text file called "test.txt" (containing the OCR Pseudocode), which must exist in the same directory. This can easily be
-       changed by altering the text file name at the bottom of OCR.py. Also note, there must be at least 1 newline at the end of the file.
+Usage: This version of OCR.py currently works on a text file called "test.txt" (containing the OCR Pseudocode), which must exist in the same directory. This can easily be changed by altering the text file name at the bottom of OCR.py. Also note, there must be at least 1 newline at the end of the file.
 
 Link to OCR Pseudocode Syntax: https://www.ocr.org.uk/Images/202654-pseudocode-guide.pdf
 Not Supported: string.length, string.substring, Arrays, File Handling, Comments
